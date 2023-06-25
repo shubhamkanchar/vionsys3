@@ -14,8 +14,8 @@
 				<div class="techvio-responsive-menu">
 					<div class="logo">
 						<a href="{{ route('index') }}">
-							<img src="{{ asset('assets/img/logo_3.png') }}" class="white-logo" alt="logo">
-							<img src="{{ asset('assets/img/logo_3.png') }}" class="black-logo" alt="logo">
+							<img src="{{ asset('public/assets/img/logo_3.png') }}" class="white-logo" alt="logo">
+							<img src="{{ asset('public/assets/img/logo_3.png') }}" class="black-logo" alt="logo">
 						</a>
 					</div>
 				</div>
@@ -25,8 +25,8 @@
 			<div class="container">
 				<nav class="navbar navbar-expand-md navbar-light">
 					<a class="navbar-brand" href="{{ route('index') }}">
-						<img src="{{ asset('assets/img/logo_3.png') }}" class="white-logo" alt="logo">
-						<img src="{{ asset('assets/img/logo_3.png') }}" class="black-logo" alt="logo">
+						<img src="{{ asset('public/assets/img/logo_3.png') }}" class="white-logo" alt="logo">
+						<img src="{{ asset('public/assets/img/logo_3.png') }}" class="black-logo" alt="logo">
 					</a>
 					<div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
 						<ul class="navbar-nav">

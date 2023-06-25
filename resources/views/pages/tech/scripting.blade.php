@@ -26,13 +26,13 @@
             <div class="col-lg-12 col-md-12">
                 <div class="image-sliders owl-carousel owl-theme">
                     <div class="project-details-image">
-                        <img src="{{ asset('assets/img/portfolio/project-details-1.jpg' ) }}" alt="image">
+                        <img src="{{ asset('public/assets/img/portfolio/project-details-1.jpg' ) }}" alt="image">
                     </div>
                     <div class="project-details-image">
-                        <img src="{{ asset('assets/img/portfolio/project-details-2.jpg' ) }}" alt="image">
+                        <img src="{{ asset('public/assets/img/portfolio/project-details-2.jpg' ) }}" alt="image">
                     </div>
                     <div class="project-details-image">
-                        <img src="{{ asset('assets/img/portfolio/project-details-3.jpg' ) }}" alt="image">
+                        <img src="{{ asset('public/assets/img/portfolio/project-details-3.jpg' ) }}" alt="image">
                     </div>
                 </div>
             </div>

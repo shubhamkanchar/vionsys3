@@ -26,7 +26,7 @@
 				<div class="col-lg-8 col-md-12">
 					<div class="services-details-content">
 						<div class="services-details-image">
-							<img src="{{ asset('assets/img/services-details-1.jpg') }}" alt="image">
+							<img src="{{ asset('public/assets/img/services-details-1.jpg') }}" alt="image">
 						</div>
 						
 						<h3>Business Intelligence and Analytics Services</h3>
