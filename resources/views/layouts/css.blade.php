@@ -7,26 +7,26 @@
 	<link href="https://fonts.googleapis.com/css2?family=Dosis:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css2?family=Catamaran:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 	<!-- Favicon -->
-	<link rel="icon" type="image/png" href="{{ asset('assets/img/favicon.png') }}">
+	<link rel="icon" type="image/png" href="{{ asset('public/assets/img/favicon.png') }}">
 	<!-- Bootstrap Min CSS -->
-	<link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css' ) }}">
+	<link rel="stylesheet" href="{{ asset('public/assets/css/bootstrap.min.css' ) }}">
 	<!-- Animate Min CSS -->
-	<link rel="stylesheet" href="{{ asset('assets/css/animate.min.css' ) }}">
+	<link rel="stylesheet" href="{{ asset('public/assets/css/animate.min.css' ) }}">
 	<!-- FlatIcon CSS -->
-	<link rel="stylesheet" href="{{ asset('assets/css/flaticon.css' ) }}">
+	<link rel="stylesheet" href="{{ asset('public/assets/css/flaticon.css' ) }}">
 	<!-- Font Awesome Min CSS -->
-	<link rel="stylesheet" href="{{ asset('assets/css/fontawesome.min.css' ) }}">
+	<link rel="stylesheet" href="{{ asset('public/assets/css/fontawesome.min.css' ) }}">
 	<!-- Mran Menu CSS -->
-	<link rel="stylesheet" href="{{ asset('assets/css/meanmenu.css' ) }}">
+	<link rel="stylesheet" href="{{ asset('public/assets/css/meanmenu.css' ) }}">
 	<!-- Magnific Popup Min CSS -->
-	<link rel="stylesheet" href="{{ asset('assets/css/magnific-popup.min.css' ) }}">
+	<link rel="stylesheet" href="{{ asset('public/assets/css/magnific-popup.min.css' ) }}">
 	<!-- Nice Select Min CSS -->
-	<link rel="stylesheet" href="{{ asset('assets/css/nice-select.min.css' ) }}">
+	<link rel="stylesheet" href="{{ asset('public/assets/css/nice-select.min.css' ) }}">
 	<!-- Swiper Min CSS -->
-	<link rel="stylesheet" href="{{ asset('assets/css/swiper.min.css' ) }}">
+	<link rel="stylesheet" href="{{ asset('public/assets/css/swiper.min.css' ) }}">
 	<!-- Owl Carousel Min CSS -->
-	<link rel="stylesheet" href="{{ asset('assets/css/owl.carousel.min.css' ) }}">
+	<link rel="stylesheet" href="{{ asset('public/assets/css/owl.carousel.min.css' ) }}">
 	<!-- Style CSS -->
-	<link rel="stylesheet" href="{{ asset('assets/css/style.css' ) }}">
+	<link rel="stylesheet" href="{{ asset('public/assets/css/style.css' ) }}">
 	<!-- Responsive CSS -->
-	<link rel="stylesheet" href="{{ asset('assets/css/responsive.css' ) }}">
+	<link rel="stylesheet" href="{{ asset('public/assets/css/responsive.css' ) }}">
