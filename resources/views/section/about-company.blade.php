@@ -35,7 +35,7 @@
 				</div>
 				<div class="col-lg-5 offset-lg-1 col-md-12 col-sm-12">
 					<div class="about-image">
-						<img src="assets/img/about.jpg" alt="About image">
+						<img src="{{ asset('public/assets//img/about.jpg') }}" alt="About image">
 						<div class="years-design">
 							<h2>5</h2>
 							<h5>Years Experience</h5>

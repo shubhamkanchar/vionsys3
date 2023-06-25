@@ -3,7 +3,7 @@
 			<div class="row align-items-center">
 				<div class="col-lg-6">
 					<div class="overview-image">
-						<img src="assets/img/choose-1.jpg" alt="image">
+						<img src="{{ asset('public/assets//img/choose-1.jpg') }}" alt="image">
 					</div>
 				</div>
 				<div class="col-lg-6">

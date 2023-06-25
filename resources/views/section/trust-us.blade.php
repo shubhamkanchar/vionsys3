@@ -18,7 +18,7 @@
 				</div>
 				<div class="col-lg-6">
 					<div class="overview-image-2">
-						<img src="assets/img/choose-2.jpg" alt="image">
+						<img src="{{ asset('public/assets//img/choose-2.jpg') }}" alt="image">
 					</div>
 				</div>
 			</div>

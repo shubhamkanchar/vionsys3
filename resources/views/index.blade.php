@@ -25,7 +25,7 @@
 						</div>
 						<div class="col-lg-6 col-md-12">
 							<div class="banner-image">
-								<img src="assets/img/home-font.png" alt="image">
+								<img src="{{ asset('public/assets/img/home-font.png') }}" alt="image">
 							</div>
                         </div>
 					</div>
@@ -33,7 +33,7 @@
 			</div>
 		</div>
 		<div class="creative-shape">
-            <img src="assets/img/home-bottom-shape.png" alt="svg shape">
+            <img src="{{ asset('public/assets/img/home-bottom-shape.png') }}" alt="svg shape">
         </div>
 	</div>
 	<!-- End Home Area -->
