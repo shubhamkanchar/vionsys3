@@ -30,7 +30,7 @@
 						</div>
 						
 						<h3>Big Data Services</h3>
-						<p>At XYZ Data Solutions, we offer comprehensive Big Data services to help businesses harness the power of large and complex data sets. Our expert team of data engineers, architects, and analysts are skilled in handling the challenges of Big Data and extracting valuable insights for informed decision-making.</p>
+						<p>At {{ config('details.company_name') }} Data Solutions, we offer comprehensive Big Data services to help businesses harness the power of large and complex data sets. Our expert team of data engineers, architects, and analysts are skilled in handling the challenges of Big Data and extracting valuable insights for informed decision-making.</p>
 						
 						<div class="features-text">
 							<ul class="service-features-list">

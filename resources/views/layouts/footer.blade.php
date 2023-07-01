@@ -61,7 +61,7 @@
 								<li> <a href="{{ route('service.webdev') }}">Web Development</a></li>
 								<li> <a href="{{ route('service.cloud-computing') }}">Cloud Computing</a></li>
 								<li> <a href="{{ route('service.ai') }}">Artificial Intelligence</a></li>
-								<li> <a href="{{ route('service.devops') }}">Devops</a></li>
+								<li> <a href="{{ route('service.DevOps') }}">DevOps</a></li>
 							</ul>
 						</div>
 					</div>

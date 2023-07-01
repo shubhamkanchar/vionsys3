@@ -22,7 +22,7 @@
 	<!-- Start About Section -->
 	@include('section.about-company')
 	<!-- End About Section -->
-	
+	@include('section.csr')
 	<!-- Start Counter Section -->
 	@include('section.counter')
 	<!-- End Counter Section -->

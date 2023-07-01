@@ -39,7 +39,7 @@
             <div class="col-lg-12 col-md-12">
                 <div class="projects-details-desc">
                     <h4>JAVA Development Services</h4>
-                    <p>At XYZ Tech Solutions, we offer comprehensive JAVA development services to help businesses build robust, scalable, and secure applications using the Java programming language and its ecosystem.</p>
+                    <p>At {{ config('details.company_name') }} Tech Solutions, we offer comprehensive JAVA development services to help businesses build robust, scalable, and secure applications using the Java programming language and its ecosystem.</p>
                     <div class="features-text">
                         <h4>Custom JAVA Application Development</h4>
                         <p>Our experienced team specializes in developing custom JAVA applications tailored to your unique business requirements. We follow industry best practices and utilize Java frameworks to create scalable, high-performance applications that meet your specific needs.</p>

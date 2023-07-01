@@ -30,7 +30,7 @@
 					</div>
 
 					<h4>DevOps Services</h4>
-					<p>At XYZ DevOps Solutions, we offer comprehensive DevOps services to help businesses accelerate software development, increase collaboration, and streamline operations.</p>
+					<p>At {{ config('details.company_name') }} DevOps Solutions, we offer comprehensive DevOps services to help businesses accelerate software development, increase collaboration, and streamline operations.</p>
 
 
 					<div class="features-text">

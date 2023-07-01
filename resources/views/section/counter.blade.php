@@ -5,7 +5,7 @@
 					<div class="single-counter">
 						<div class="counter-contents">
 							<h2>
-								<span class="counter-number">27</span>
+								<span class="counter-number">18</span>
 								<span>+</span>
 							</h2>
 							<h3 class="counter-heading">Years Helping Business</h3>
@@ -16,7 +16,7 @@
 					<div class="single-counter">
 						<div class="counter-contents">
 							<h2>
-								<span class="counter-number">500</span>
+								<span class="counter-number">150</span>
 								<span>+</span>
 							</h2>
 							<h3 class="counter-heading">Employees</h3>
@@ -27,7 +27,7 @@
 					<div class="single-counter">
 						<div class="counter-contents">
 							<h2>
-								<span class="counter-number">30</span>
+								<span class="counter-number">28</span>
 								<span>M</span>
 							</h2>
 							<h3 class="counter-heading">Complete Projects</h3>
@@ -38,7 +38,7 @@
 					<div class="single-counter">
 						<div class="counter-contents">
 							<h2>
-								<span class="counter-number">90</span>
+								<span class="counter-number">1</span>
 								<span>K+</span>
 							</h2>
 							<h3 class="counter-heading">5 Star Rating</h3>

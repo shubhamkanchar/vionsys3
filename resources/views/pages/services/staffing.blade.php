@@ -30,7 +30,7 @@
 					</div>
 
 					<h4>Staffing Solutions</h4>
-					<p>At XYZ Staffing Services, we offer comprehensive staffing solutions to help businesses find top talent and build high-performing teams.</p>
+					<p>At {{ config('details.company_name') }} Staffing Services, we offer comprehensive staffing solutions to help businesses find top talent and build high-performing teams.</p>
 
 					<div class="features-text">
 						<ul class="service-features-list">

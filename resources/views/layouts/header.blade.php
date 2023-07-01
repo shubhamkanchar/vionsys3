@@ -52,7 +52,7 @@
 										<a href="{{ route('service.testing-and-qa') }}" class="nav-link">Testing and QA</a>
 									</li>
 									<li class="nav-item"> 
-										<a href="{{ route('service.devops') }}" class="nav-link">Deveops Solution</a>
+										<a href="{{ route('service.DevOps') }}" class="nav-link">DevOps Solution</a>
 									</li>
 									<li class="nav-item"> 
 										<a href="{{ route('service.bi-and-analytics') }}" class="nav-link">BI and Analytics</a>

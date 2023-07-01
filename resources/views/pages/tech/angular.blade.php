@@ -39,7 +39,7 @@
             <div class="col-lg-12 col-md-12">
                 <div class="projects-details-desc">
                     <h4>Angular Development Services</h4>
-                    <p>At XYZ Tech Solutions, we provide comprehensive Angular development services to help businesses build modern, scalable, and interactive web applications using the Angular framework.</p>
+                    <p>At {{ config('details.company_name') }} Tech Solutions, we provide comprehensive Angular development services to help businesses build modern, scalable, and interactive web applications using the Angular framework.</p>
                     <div class="features-text">
                         <h4>Custom Angular Application Development</h4>
                         <p>Our experienced team specializes in developing custom Angular applications tailored to your specific business requirements. We leverage the power of Angular's component-based architecture and TypeScript to deliver high-performing and feature-rich applications.</p>

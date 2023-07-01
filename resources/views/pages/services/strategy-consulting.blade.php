@@ -30,7 +30,7 @@
 					</div>
 
 					<h4>Strategy and Consulting Services</h4>
-					<p>At XYZ Strategy and Consulting, we provide comprehensive strategy and consulting services to help businesses navigate challenges, drive growth, and achieve their strategic objectives.</p>
+					<p>At {{ config('details.company_name') }} Strategy and Consulting, we provide comprehensive strategy and consulting services to help businesses navigate challenges, drive growth, and achieve their strategic objectives.</p>
 
 					<div class="features-text">
 						<ul class="service-features-list">

@@ -30,7 +30,7 @@
 					</div>
 
 					<h4>Testing and Quality Services</h4>
-					<p>At XYZ Testing Solutions, we offer comprehensive testing and quality services to ensure the reliability, performance, and user satisfaction of your software applications and systems.</p>
+					<p>At {{ config('details.company_name') }} Testing Solutions, we offer comprehensive testing and quality services to ensure the reliability, performance, and user satisfaction of your software applications and systems.</p>
 
 					<div class="features-text">
 						<ul class="service-features-list">

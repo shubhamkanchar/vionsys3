@@ -30,7 +30,7 @@
 					</div>
 
 					<h4>Software Development Services</h4>
-					<p>At XYZ Software Solutions, we provide comprehensive software development services to help businesses build robust, scalable, and customized software solutions that meet their unique needs and drive digital transformation.</p>
+					<p>At {{ config('details.company_name') }} Software Solutions, we provide comprehensive software development services to help businesses build robust, scalable, and customized software solutions that meet their unique needs and drive digital transformation.</p>
 
 					<div class="features-text">
 						<ul class="service-features-list">

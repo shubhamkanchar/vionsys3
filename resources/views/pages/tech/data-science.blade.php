@@ -39,7 +39,7 @@
             <div class="col-lg-12 col-md-12">
                 <div class="projects-details-desc">
                     <h4>Data Science Services</h4>
-                    <p>At XYZ Tech Solutions, we offer comprehensive data science services to help businesses leverage their data for insights, predictive modeling, and informed decision-making.</p>
+                    <p>At {{ config('details.company_name') }} Tech Solutions, we offer comprehensive data science services to help businesses leverage their data for insights, predictive modeling, and informed decision-making.</p>
                     <div class="features-text">
                         <h4>Data Analysis and Visualization</h4>
                         <p>Our data science team utilizes advanced analytical techniques and visualization tools to uncover patterns, trends, and actionable insights from your data. We employ statistical analysis, exploratory data analysis, and data visualization to facilitate better understanding and interpretation of your data.</p>

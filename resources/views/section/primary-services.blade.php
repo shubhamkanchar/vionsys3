@@ -62,10 +62,10 @@
 						<div class="services-icon">
 							<i class="flaticon-mobile-app"></i>
 						</div>
-						<h3>Devops</h3>
+						<h3>DevOps</h3>
 						<p>DevOps combines software development (Dev) and IT operations (Ops) to improve collaboration, efficiency, and automation in the software delivery process.</p>
 						<div class="services-btn-link">
-							<a href="{{ route('service.devops') }}" class="services-link">Read More</a>
+							<a href="{{ route('service.DevOps') }}" class="services-link">Read More</a>
 						</div>
 					</div>
 				</div>

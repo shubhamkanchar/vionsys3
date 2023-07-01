@@ -63,18 +63,20 @@
 	<!-- End Testimonial Section -->
 	
 	<!-- Start Team Section -->
-	@include('section.team')
+	
 	<!-- End Team Section -->
 	
 	<!-- Start Blog Section -->
 	
 	<!-- End Blog Section -->
+
+	<!-- Start Partner section -->
+	@include('section.customer')
+	<!-- End Partner section -->
 	
 	<!-- Start Hire Section -->
 	@include('section.hire')
 	<!-- End Hire Section -->
 	
-	<!-- Start Partner section -->
-	@include('section.customer')
-	<!-- End Partner section -->
+	
 @endsection

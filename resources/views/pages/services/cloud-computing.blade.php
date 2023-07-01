@@ -30,7 +30,7 @@
 					</div>
 
 					<h4>Cloud Computing Services</h4>
-					<p>At XYZ Cloud Solutions, we provide comprehensive cloud computing services to empower businesses with scalable, flexible, and efficient cloud solutions.</p>
+					<p>At {{ config('details.company_name') }} Cloud Solutions, we provide comprehensive cloud computing services to empower businesses with scalable, flexible, and efficient cloud solutions.</p>
 
 					<div class="features-text">
 

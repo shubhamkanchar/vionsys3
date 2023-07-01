@@ -30,7 +30,7 @@
 						</div>
 						
 						<h3>Business Intelligence and Analytics Services</h3>
-						<p>At XYZ Business Solutions, we offer comprehensive business intelligence and analytics services to help businesses gain valuable insights, make informed decisions, and drive strategic growth. Our expert team of data analysts, scientists, and consultants are equipped with the latest tools and technologies to extract meaningful intelligence from your data.</p>
+						<p>At {{ config('details.company_name') }} Business Solutions, we offer comprehensive business intelligence and analytics services to help businesses gain valuable insights, make informed decisions, and drive strategic growth. Our expert team of data analysts, scientists, and consultants are equipped with the latest tools and technologies to extract meaningful intelligence from your data.</p>
 						
 						<div class="features-text">
 							<ul class="service-features-list">

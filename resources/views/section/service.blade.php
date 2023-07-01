@@ -7,7 +7,7 @@
                 <li> <a href="{{ route('service.product-development') }}">Product Development</a></li>
                 <li> <a href="{{ route('service.cloud-computing') }}">Cloud Computing</a></li>
                 <li> <a href="{{ route('service.testing-and-qa') }}">Testing and QA</a></li>
-                <li> <a href="{{ route('service.devops') }}">Devops</a></li>
+                <li> <a href="{{ route('service.DevOps') }}">DevOps</a></li>
                 <li> <a href="{{ route('service.bi-and-analytics') }}">BI and Analytics</a></li>
                 <li> <a href="{{ route('service.bigdata') }}">Big Data</a></li>
                 <li> <a href="{{ route('service.app-dev-main') }}">Application development ans maintenance</a></li>

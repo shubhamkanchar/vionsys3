@@ -30,7 +30,7 @@
 					</div>
 
 					<h4>Application Development and Maintenance Services</h4>
-					<p>At XYZ Application Solutions, we offer comprehensive application development and maintenance services to help businesses create, enhance, and maintain their software applications for optimal performance and functionality.</p>
+					<p>At {{ config('details.company_name') }} Application Solutions, we offer comprehensive application development and maintenance services to help businesses create, enhance, and maintain their software applications for optimal performance and functionality.</p>
 
 					<div class="features-text">
 						<ul class="service-features-list">

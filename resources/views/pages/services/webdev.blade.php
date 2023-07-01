@@ -30,7 +30,7 @@
 					</div>
 
 					<h4>Web Development Services</h4>
-					<p>At XYZ Web Solutions, we offer professional web development services to help businesses establish a strong online presence, engage their audience, and achieve their digital goals.</p>
+					<p>At {{ config('details.company_name') }} Web Solutions, we offer professional web development services to help businesses establish a strong online presence, engage their audience, and achieve their digital goals.</p>
 
 					<div class="features-text">
 						<ul class="service-features-list">

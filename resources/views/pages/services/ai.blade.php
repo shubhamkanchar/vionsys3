@@ -30,7 +30,7 @@
 					</div>
 
 					<h4>Artificial Intelligence (AI) Services</h4>
-					<p>At XYZ AI Solutions, we offer cutting-edge Artificial Intelligence services to help businesses harness the power of AI and unlock new possibilities for innovation, automation, and intelligent decision-making.</p>
+					<p>At {{ config('details.company_name') }} AI Solutions, we offer cutting-edge Artificial Intelligence services to help businesses harness the power of AI and unlock new possibilities for innovation, automation, and intelligent decision-making.</p>
 
 					<div class="features-text">
 						<ul class="service-features-list">

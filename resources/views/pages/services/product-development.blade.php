@@ -30,7 +30,7 @@
 					</div>
 
 					<h4>Product Development Services</h4>
-					<p>At XYZ Product Solutions, we offer end-to-end product development services to transform your ideas into successful and market-ready products. Our experienced team helps businesses throughout the product development lifecycle, from concept to launch.</p>
+					<p>At {{ config('details.company_name') }} Product Solutions, we offer end-to-end product development services to transform your ideas into successful and market-ready products. Our experienced team helps businesses throughout the product development lifecycle, from concept to launch.</p>
 					<div class="features-text">
 						<ul class="service-features-list">
 							<li><i class="fa fa-check"></i>Product Strategy and Planning</li>
