@@ -30,10 +30,18 @@
 					<h2>Find Us</h2>
 				</div>
 			</div>
-			<div class="col-lg-6 col-md-6 offset-lg-3 offset-md-3">
+			<div class="col-lg-6 col-md-6">
 				<div class="contact-info-content">
 					<h5>Pune Headquarter</h5>
 					<p>{{ config('details.address') }}</p>
+					<a href="tel:0802235678">{{ config('details.phone') }}</a>
+					<a href="mailto:demo@example.com">{{ config('details.mail') }}</a>
+				</div>
+			</div>
+			<div class="col-lg-6 col-md-6">
+				<div class="contact-info-content">
+					<h5>Latur Office</h5>
+					<p>Office No. W 28 MIDC, Sree Nagar Latur, Maharashtra 413512</p>
 					<a href="tel:0802235678">{{ config('details.phone') }}</a>
 					<a href="mailto:demo@example.com">{{ config('details.mail') }}</a>
 				</div>
