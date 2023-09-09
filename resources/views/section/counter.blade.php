@@ -5,7 +5,7 @@
 					<div class="single-counter">
 						<div class="counter-contents">
 							<h2>
-								<span class="counter-number">18</span>
+								<span class="counter-number">4</span>
 								<span>+</span>
 							</h2>
 							<h3 class="counter-heading">Years Helping Business</h3>
@@ -27,7 +27,7 @@
 					<div class="single-counter">
 						<div class="counter-contents">
 							<h2>
-								<span class="counter-number">28</span>
+								<span class="counter-number">16</span>
 								<span>M</span>
 							</h2>
 							<h3 class="counter-heading">Complete Projects</h3>

@@ -20,7 +20,7 @@
 						</div>
 						<div class="team-info">
 							<h3>Govind Rathod</h3>
-							<span>Founder, ceo</span>
+							<span>Founder, CEO</span>
 						</div>
 					</div>
 				</div>
@@ -36,7 +36,7 @@
 						</div>
 						<div class="team-info">
 							<h3>Nilam Rathod</h3>
-							<span>Co-founder, cto</span>
+							<span>Co-Founder, CTO</span>
 						</div>
 					</div>
 				</div>
