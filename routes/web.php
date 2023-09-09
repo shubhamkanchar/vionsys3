@@ -162,6 +162,9 @@ Route::name('expertise.')->prefix('expertise')->group(function () {
     Route::get('/qa-software-testing', function () {
         return view('pages.expertise.qa-software-testing');
     })->name('qa-software-testing');
+    Route::get('/cyber-security', function () {
+        return view('pages.expertise.cyber-security');
+    })->name('cyber-security');
 });
 
 Route::post('send-mail', [MailController::class, 'index'])->name('send_mail');

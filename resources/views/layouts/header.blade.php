@@ -130,6 +130,9 @@
 									<li class="nav-item">
 										<a href="{{ route('expertise.project-management') }}" class="nav-link">Project Management</a>
 									</li>
+									<li class="nav-item">
+										<a href="{{ route('expertise.cyber-security') }}" class="nav-link">Cybersecurity</a>
+									</li>
 								</ul>
 							</li>
 							<li class="nav-item">
