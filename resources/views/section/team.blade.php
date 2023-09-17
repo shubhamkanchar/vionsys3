@@ -4,8 +4,8 @@
 			<div class="row text-center">
 				<div class="col-md-12">
 					<div class="section-title">
-						<h6>Team Member</h6>
-						<h2>Expert Team</h2>
+						<!-- <h6>Our Leadership</h6> -->
+						<h2>Our Leadership</h2>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6">
@@ -52,7 +52,7 @@
 						</div>
 						<div class="team-info">
 							<h3>Rtr. Suraj Raut</h3>
-							<span>Talent Acquisition Lead</span>
+							<span>AVP HR</span>
 						</div>
 					</div>
 				</div>
