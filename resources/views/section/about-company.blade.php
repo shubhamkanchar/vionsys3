@@ -37,7 +37,7 @@
 					<div class="about-image">
 						<img src="{{ asset('public/assets//img/about.jpg') }}" alt="About image">
 						<div class="years-design">
-							<h2>5</h2>
+							<h2>5 +</h2>
 							<h5>Years Experience</h5>
                         </div>
 					</div>
