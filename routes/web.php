@@ -34,6 +34,10 @@ Route::get('/services', function () {
     return view('pages.services');
 })->name('services');
 
+Route::get('/apply', function () {
+    return view('pages.apply');
+})->name('apply');
+
 Route::name('service.')->prefix('service')->group(function () {
     Route::get('/software-development', function () {
         return view('pages.services.software-development');
@@ -168,3 +172,4 @@ Route::name('expertise.')->prefix('expertise')->group(function () {
 });
 
 Route::post('send-mail', [MailController::class, 'index'])->name('send_mail');
+Route::post('apply-mail', [MailController::class, 'applyMail'])->name('apply_mail');
