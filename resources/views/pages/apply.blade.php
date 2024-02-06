@@ -108,7 +108,7 @@
 							</div>
 							<div class="col-lg-6 col-md-6" style="margin-bottom: 15px;">
 								<div class="custom-file form-group">
-									<input type="file" name="resume" id="resume" class="custom-file-input" required placeholder="Your Resume">
+									<input type="file" name="resume" id="resume" class="custom-file-input" required placeholder="Your Resume" accept="application/pdf">
 									<label class="custom-file-label mb-5" for="customFile" style="height: 57px;border-left: 3px solid #7b68ee;padding-top: 17px;">Choose file</label>
 								</div>
 							</div>
@@ -158,11 +158,11 @@
 					$('.spin-loader').removeClass('d-none');
 				},
 				success: function() {
-					alert('Mail send successfully');
+					toastr.success('Applied successfully');
 					$('.spin-loader').addClass('d-none');
 				},
 				error: function() {
-					alert('Something went wrong please try again later');
+					toastr.error('Something went wrong please try again later');
 					$('.spin-loader').addClass('d-none');
 				},
 				complete:function(){

@@ -33,19 +33,19 @@
 							<p>{{ config('details.company_name') }} is a comprehensive IT company offering end-to-end technology solutions. With expertise in software development, network infrastructure, cybersecurity, cloud services, and IT consulting, we empower businesses to thrive in the digital era.</p>
 							<ul class="footer-social">
 								<li>
-									<a href="#"> <i class="fab fa-facebook-f"></i>
+									<a href="https://www.facebook.com/vionsysitsolutions"> <i class="fab fa-facebook-f"></i>
 									</a>
 								</li>
-								<li>
+								{{-- <li>
 									<a href="#"> <i class="fab fa-twitter"></i>
 									</a>
-								</li>
+								</li> --}}
 								<li>
-									<a href="#"> <i class="fab fa-pinterest"></i>
+									<a href="https://www.instagram.com/vionsys.it.solutions?igsh=aXMyYzU1cjZ3M3Ux"> <i class="fab fa-instagram"></i>
 									</a>
 								</li>
 								<li>
-									<a href="#"> <i class="fab fa-linkedin"></i>
+									<a href="https://www.linkedin.com/company/vionsys-it-solutions-ind-pvt-ltd/"> <i class="fab fa-linkedin"></i>
 									</a>
 								</li>
 							</ul>

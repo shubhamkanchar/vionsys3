@@ -131,6 +131,7 @@
 @endsection
 
 @section('script')
+
 <script>
 	$(document).ready(function() {
 		$('#contact-form').submit(function(e) {
