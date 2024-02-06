@@ -68,7 +68,7 @@ Route::name('service.')->prefix('service')->group(function () {
     })->name('cloud-computing');
 
     Route::get('/DevOps', function () {
-        return view('pages.services.DevOps');
+        return view('pages.services.devops');
     })->name('DevOps');
 
     Route::get('/product-development', function () {
