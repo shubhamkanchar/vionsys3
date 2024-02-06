@@ -145,10 +145,10 @@
 					$('.submit-btn').attr('disabled',true)
 				},
 				success: function() {
-					alert('Mail send successfully')
+					toastr.success('Mail send successfully')
 				},
 				error: function() {
-					alert('Something went wrong please try again later')
+					toastr.error('Something went wrong please try again later')
 				},
 				complete:function(){
 					$('.submit-btn').attr('disabled',false)
