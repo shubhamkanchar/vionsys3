@@ -143,6 +143,14 @@
 
 @section('script')
 <script>
+	$('#resume').on('change',function(e){
+		//get the file name
+		var fileName = e.target.files[0].name;
+		//replace the "Choose a file" label
+		$(this).next('.custom-file-label').html(fileName);
+	})
+</script>
+<script>
 	$(document).ready(function() {
 		$('#contact-form').submit(function(e) {
 			e.preventDefault(); // avoid to execute the actual submit of the form.
