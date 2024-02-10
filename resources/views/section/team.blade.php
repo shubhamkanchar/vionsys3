@@ -8,6 +8,9 @@
 						<h2>Our Leadership</h2>
 					</div>
 				</div>
+				<div class="offset-lg-2">
+
+				</div>
 				<div class="col-lg-4 col-md-6">
 					<div class="single-team-box">
 						<div class="team-image">
@@ -40,7 +43,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-6">
+				{{-- <div class="col-lg-4 col-md-6">
 					<div class="single-team-box">
 						<div class="team-image">
 							<!-- <img src="{{ asset('public/assets//img/team/team-3.jpg') }}" alt="team" /> -->
@@ -55,7 +58,7 @@
 							<span>AVP HR</span>
 						</div>
 					</div>
-				</div>
+				</div> --}}
 				<!-- <div class="col-lg-3 col-md-6">
 					<div class="single-team-box">
 						<div class="team-image">
